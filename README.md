@@ -59,7 +59,7 @@ The player controls an animated character using physical GPIO buttons while the 
 
 ### Languages
 
-`Python` `Java` `C` `SQL` `PHP` `R`
+`Python` `Java` `C` `SQL` `PHP`
 
 ### Web Development
 
