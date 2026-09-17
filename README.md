@@ -51,7 +51,7 @@ The player controls an animated character using physical GPIO buttons while the 
 **Technologies:**  
 `C` `STM32` `CMSIS` `PlatformIO` `SPI` `GPIO` `Python`
 
-[View Cherry Chase →](https://github.com/Rinat300706/cherrychasethis)
+[View Cherry Chase →](https://github.com/Rinat300706/cherrychase)
 
 ---
 
@@ -98,9 +98,9 @@ The player controls an animated character using physical GPIO buttons while the 
 
 ## 📫 Connect With Me
 
-**LinkedIn:** https://www.linkedin.com/in/rinatgalearschi/
+**LinkedIn:** [linkedin.com/in/rinatgalearschi](https://www.linkedin.com/in/rinatgalearschi/)
 
-**GitHub:** github.com/Rinat300706](https://github.com/Rinat300706
+**GitHub:** [github.com/Rinat300706](https://github.com/Rinat300706)
 
 ---
 
